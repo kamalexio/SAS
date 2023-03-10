@@ -1,2 +1,2 @@
 # SAS
-SAS &amp; proc sql
+SAS &amp; PROC SQL
